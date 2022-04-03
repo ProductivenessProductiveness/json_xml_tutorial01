@@ -1,11 +1,11 @@
 # json_xml_tutorial01
 
 ## JSONについて
-・java　script　object　notation
-・容易にコンピュータ間でデータを転送できる
-・例えば従業員の名前と年齢など
-・phpやjavascriptを使用して操作できる
-・jsonはオブジェクトと同じ
+・java　script　object　notation. 
+・容易にコンピュータ間でデータを転送できる. 
+・例えば従業員の名前と年齢など. 
+・phpやjavascriptを使用して操作できる. 
+・jsonはオブジェクトと同じ. 
 
 
 ## XMLについて
